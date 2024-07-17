@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saveetha-website/static/css/main.f9cac800.css",
-    "main.js": "/saveetha-website/static/js/main.109ff282.js",
+    "main.js": "/saveetha-website/static/js/main.8b5c1666.js",
     "static/js/453.3e49419c.chunk.js": "/saveetha-website/static/js/453.3e49419c.chunk.js",
     "static/media/college.jpg": "/saveetha-website/static/media/college.91811672bc002500d829.jpg",
     "static/media/art-exhibition.jpg": "/saveetha-website/static/media/art-exhibition.d0794cacc1bbaaa17d30.jpg",
@@ -10,11 +10,11 @@
     "static/media/tech-conference.jpg": "/saveetha-website/static/media/tech-conference.722276251a06bc81273b.jpg",
     "index.html": "/saveetha-website/index.html",
     "main.f9cac800.css.map": "/saveetha-website/static/css/main.f9cac800.css.map",
-    "main.109ff282.js.map": "/saveetha-website/static/js/main.109ff282.js.map",
+    "main.8b5c1666.js.map": "/saveetha-website/static/js/main.8b5c1666.js.map",
     "453.3e49419c.chunk.js.map": "/saveetha-website/static/js/453.3e49419c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9cac800.css",
-    "static/js/main.109ff282.js"
+    "static/js/main.8b5c1666.js"
   ]
 }
